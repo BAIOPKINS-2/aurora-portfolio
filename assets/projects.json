@@ -1,0 +1,38 @@
+{
+  "toyota": {
+    "badge": "Top 10 LUMSA & Toyota Headquarter",
+    "category": "Loyalty Program · Marketing Strategico",
+    "title": "WeToyota Access",
+    "context": "Progetto accademico e strategico sviluppato nell'ambito del corso di Marketing Avanzato LUMSA, su commissione diretta di Toyota Motor Italia.",
+    "objective": "Ridisegnare il loyalty funnel del marchio nipponico per ingaggiare il segmento Gen Z e giovani professionisti, superando il classico concetto di manutenzione programmata per trasformarlo in un hub di mobilità esperienziale.",
+    "role": "Aurora Baldazzi: Ideazione del concept loyalty, analisi dei customer touchpoint, mappatura della user journey e ideazione dei percorsi di gamification premiante.",
+    "result": "Selezionato tra i 10 progetti d'eccellenza dell'Ateneo LUMSA e presentato dal team direttamente presso il quartier generale di Toyota Motor Italia a Roma."
+  },
+  "novanext": {
+    "badge": "B2G Strategic Planning",
+    "category": "Business Development · Piano di Innovazione",
+    "title": "Novanext – NextPA",
+    "context": "Sviluppato all'interno del modulo di Tecnologie e Processi Innovativi per il brand ICT Novanext Training.",
+    "objective": "Definire un'efficace roadmap di posizionamento ed espansione per inserire i corsi di alta formazione Novanext all'interno delle gare e dei fabbisogni formativi della Pubblica Amministrazione (PNRR e digital transformation).",
+    "role": "Aurora Baldazzi: Analisi normativa e dei bandi B2G, benchmark competitivo tra fornitori ICT certificati, redazione della Value Proposition per la dirigenza pubblica.",
+    "result": "Una proposta di ingresso nel mercato PA, con tempi di go-to-market e percorso di accreditamento. I benefici descritti sono attesi."
+  },
+  "viola": {
+    "badge": "Selezione di ateneo · Make IT A Case 2026",
+    "category": "Digital Strategy · Omnichannel Case Study",
+    "title": "Viola Walk Home – Strategia Digital 2026",
+    "context": "Progetto di marketing multicanale applicato alla celebre startup e applicazione Viola Walk Home, dedicata alla sicurezza stradale e alla prevenzione della violenza.",
+    "objective": "Costruire un funnel di acquisizione e retention ad alto tasso etico ed emotivo, valorizzando i canali social (TikTok, Instagram) e le partnership sul territorio per ampliare la community attiva.",
+    "role": "Aurora Baldazzi: Ricerca quantitativa sul target universitario mediante questionari dedicati, sentiment analysis, piano editoriale di brand advocacy e strategia di influencer marketing solidale.",
+    "result": "Progetto classificatosi nella Top 3 LUMSA e selezionato quale candidato ufficiale di ateneo per la prestigiosa competizione nazionale Make IT A Case 2026."
+  },
+  "symbio": {
+    "badge": "Circular Economy & Feasibility",
+    "category": "Business Strategy · Sostenibilità Rigenerativa",
+    "title": "Symbio – Concept & Business Plan",
+    "context": "Cattedra di Business Planning e Start-up imprese multimediali.",
+    "objective": "Strutturare il Business Model Canvas e il piano finanziario triennale per un format ibrido di ristorazione a chilometro zero e polo museale interattivo sulla biodiversità urbana a Roma.",
+    "role": "Aurora Baldazzi: Elaborazione del Business Model Canvas completo, analisi PESTEL e SWOT, definizione dell'esperienza ospite nel 'dietro le quinte' e strategia di pricing differenziato.",
+    "result": "Concept e modello previsionale triennale: la sostenibilità economica e la replicabilità restano da validare sul campo."
+  }
+}
